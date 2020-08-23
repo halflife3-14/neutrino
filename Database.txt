@@ -4,5 +4,4 @@ viswesh:phy:5
 google:chrome:5
 titan:eyeplus:5
 internet:explorer:1
-sejal:kumar:1
 black:berry:3
